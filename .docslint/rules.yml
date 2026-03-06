@@ -1,0 +1,28 @@
+rules:
+  naming:
+    lowercase_with_dash: true
+    allowed_extensions:
+      - md
+      - yml
+      - yaml
+      - png
+      - jpg
+      - jpeg
+      - svg
+
+  structure:
+    docs_must_be_under_docs_dir: true
+    no_random_markdown_in_root: true
+    allow_root_markdown:
+      - README.md
+      - CHANGELOG.md
+      - CONTRIBUTING.md
+
+  content:
+    min_heading_count: 2
+    require_title: true
+    require_non_empty_files: true
+
+  links:
+    check_relative_links: true
+    fail_on_broken_links: false

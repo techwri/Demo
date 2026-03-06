@@ -1,0 +1,26 @@
+name: docs-check
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  docs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Validate repo structure
+        run: |
+          test -f README.md
+          test -f CHANGELOG.md
+          test -f mkdocs.yml
+          test -f docs/index.md
+          test -d docs/architecture
+          test -d docs/user-guide
+          test -d docs/admin
+          test -d .docslint
+
+      - name: Print success
+        run: echo "Repository structure is valid"

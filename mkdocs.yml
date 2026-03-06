@@ -1,0 +1,44 @@
+site_name: Project Documentation
+site_description: Эталонная структура инженерной документации
+theme:
+  name: material
+
+nav:
+  - Главная: index.md
+  - Общие сведения:
+      - Назначение: overview/purpose.md
+      - Область применения: overview/scope.md
+      - Глоссарий: overview/glossary.md
+  - Архитектура:
+      - Контекст: architecture/context.md
+      - Компоненты: architecture/components.md
+      - Модель данных: architecture/data-model.md
+      - Интеграции: architecture/integrations.md
+      - Развертывание: architecture/deployment.md
+  - API:
+      - Обзор: api/overview.md
+      - Аутентификация: api/auth.md
+      - Методы: api/endpoints.md
+      - Примеры: api/examples.md
+  - Руководство пользователя:
+      - Начало работы: user-guide/getting-started.md
+      - Основные сценарии: user-guide/main-scenarios.md
+      - FAQ: user-guide/faq.md
+      - Устранение проблем: user-guide/troubleshooting.md
+  - Администрирование:
+      - Установка: admin/installation.md
+      - Конфигурация: admin/configuration.md
+      - Резервное копирование: admin/backup.md
+      - Мониторинг: admin/monitoring.md
+  - Разработка:
+      - Локальный запуск: development/local-setup.md
+      - Правила кодирования: development/coding-rules.md
+      - Релизный процесс: development/release-process.md
+      - CI/CD: development/ci-cd.md
+  - QA:
+      - План тестирования: qa/test-plan.md
+      - Тест-кейсы: qa/test-cases.md
+      - Критерии приемки: qa/acceptance-criteria.md
+  - ADR:
+      - ADR-0001: adr/0001-use-mkdocs.md
+      - ADR-0002: adr/0002-api-versioning.md

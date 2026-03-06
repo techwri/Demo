@@ -1,0 +1,38 @@
+profile:
+  id: repo_docs_best_practice
+  name: Repository Documentation Best Practice
+  description: Проверка структуры и полноты инженерной документации
+
+required_files:
+  - README.md
+  - CHANGELOG.md
+  - mkdocs.yml
+  - docs/index.md
+  - docs/overview/purpose.md
+  - docs/architecture/components.md
+  - docs/user-guide/getting-started.md
+  - docs/admin/installation.md
+  - docs/development/ci-cd.md
+
+required_directories:
+  - docs/overview
+  - docs/architecture
+  - docs/api
+  - docs/user-guide
+  - docs/admin
+  - docs/development
+  - docs/qa
+  - docs/adr
+  - .docslint
+
+forbidden_patterns:
+  - "tmp"
+  - "draft-final-final"
+  - "new folder"
+
+rules:
+  require_readme: true
+  require_changelog: true
+  require_docs_index: true
+  require_mkdocs_config: true
+  enforce_docs_directory: true
