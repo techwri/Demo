@@ -11,8 +11,6 @@ werwerwe
 ывпаывпаыв
 dfdfw
 adfadfa
-
-   
 eqrqer   
 3  5к1235123
 123521351235
