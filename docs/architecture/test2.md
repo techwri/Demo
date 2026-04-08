@@ -9,10 +9,7 @@ wetwqetqweqt
 werwer
 werwerwe
 ### weitriwetpwe
-rwertwetrwewer\
-wetwqetqweqt
-werwer
-werwerwe
+
 ### weitriwetpwe
 rwertwetrwewer\
 wetwqetqweqt
