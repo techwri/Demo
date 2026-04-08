@@ -5,10 +5,6 @@ wetwqetqweqt
 eqrqer
 ### weitriwetpwe
 rwertwetrwewer\
-wetwqetqweqt
-werwer
-werwerwe
-### weitriwetpwe
 
 ### weitriwetpwe
 rwertwetrwewer\
