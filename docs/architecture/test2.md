@@ -5,10 +5,7 @@ werwer
 werwerwe
 
 
-ывпаывпаыв
-dfdfw
-adfadfa
-eqrqer 
+
 
 
 
