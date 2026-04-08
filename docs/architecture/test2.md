@@ -1,17 +1,7 @@
 ### weitriwetpwe
 rwertwetrwewer\
 wetwqetqweqt
-werwer
-werwerwe
 
-
-
-
-
-
-ывпаывпаыв
-dfdfw
-adfadfa
 eqrqer
 ### weitriwetpwe
 rwertwetrwewer\
