@@ -6,16 +6,7 @@ eqrqer
 ### weitriwetpwe
 rwertwetrwewer\
 
-#### weitriwetpwe
-rwertwetrwewer\
-wetwqetqweqt
 
-eqrqer
-### weitriwetpwe
-rwertwetrwewer\
-### t
-
-eqrqer
 ### weitriwetpwe
 rwertwetrwewer\### weitriwetpwe
 rwertwetrwewer\
