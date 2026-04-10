@@ -11,13 +11,7 @@ rwertwetrwewer\
 rwertwetrwewer\### weitriwetpwe
 
 ### weitriwetpwe
-rwert
-3  5к1235123
-1
-adfadfa
 
-adfadfa
-eqrqer
 ### weitriwetpwe
 rwert
 3  5к1235123
